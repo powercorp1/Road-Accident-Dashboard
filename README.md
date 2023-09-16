@@ -11,4 +11,7 @@ This Tableau dashboard provides an interactive visualization of road accident da
 
 ## Data Source
 
-The data used for this dashboard is sourced from [insert data source], and it covers road accidents that occurred between 2019 and 2022. The data was cleaned and processed for visualization in Tableau.
+The data used for this dashboard is sourced from [Accident Data], and it covers road accidents that occurred between 2019 and 2022. 
+
+![image](https://github.com/powercorp1/Road-Accident-Dashboard/assets/128278052/b51a5475-2775-4047-9f84-131aa9bd9252)
+
